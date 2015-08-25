@@ -82,7 +82,8 @@ Edit api/blog.js and replace the value of Access-Control-Allow-Origin to match y
 Run the application for rest api exposed : `kevin@home:/blogjs/api$ node blog.js`
 
 Go to the app folder
-Run the application for BLog UI application  : `kevin@home:/blogjs/api$ live-server`
+
+Run the application for BLog UI Home : `kevin@home:/blogjs/api$ live-server`
 
 ## Run
 
