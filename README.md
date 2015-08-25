@@ -83,7 +83,7 @@ Run the application for rest api exposed : `kevin@home:/blogjs/api$ node blog.js
 
 Go to the app folder
 
-Run the application for BLog UI Home : `kevin@home:/blogjs/api$ live-server`
+Run the application for BLog UI Home : `kevin@home:/blogjs/app$ live-server`
 
 ## Run
 
